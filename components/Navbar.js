@@ -19,12 +19,6 @@ const Navbar = () => {
               <ActiveLink href="/about" activeClassName="text-blue-logo">
                 <a className="px-3 font-semibold">About</a>
               </ActiveLink>
-              <ActiveLink href="/ourworks" activeClassName="text-blue-logo">
-                <a className="px-3 font-semibold">Our Works</a>
-              </ActiveLink>
-              <ActiveLink href="/contact" activeClassName="text-blue-logo">
-                <a className="px-3 font-semibold">Contact</a>
-              </ActiveLink>
             </div>
 
             <button
